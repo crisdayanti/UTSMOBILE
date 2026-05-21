@@ -13,11 +13,9 @@ Aplikasi DompetKu adalah platform expense tracker (pencatat keuangan pribadi) be
 ## Fitur yang diimplementasikan
 - [x] Header saldo total (otomatis update)✅
 - [x] Ringkasan total pemasukan & pengeluaran✅
-- [x] Form input keterangan dan nominal✅
-- [x] Dua tombol: Pemasukan & Pengeluaran✅
+- [x] Form input deskripsi dan nominal✅
+- [x] Dua tombol: Pemasukan berwarna hijau & Pengeluaran berwarna merah✅
 - [x] FlatList riwayat transaksi✅
-- [x] Warna hijau untuk pemasukan✅
-- [x] Warna merah untuk pengeluaran✅
 - [x] Validasi input (Deskripsi & Nominal)✅
 - [x] Format mata uang Rupiah✅
 

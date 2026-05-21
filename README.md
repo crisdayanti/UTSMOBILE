@@ -1,5 +1,8 @@
-# Nama dan NIM
-## Cisdayanti Laggita Br Siagian_243302621289
+# DOMPETKU/ (UNTUK MEMENUHI UTS MOBILE)
+
+## Nama & NIM
+ - Cisdayanti Laggita Br Siagian
+ - 243302621289
 
 ## Deskripsi
 Aplikasi DompetKu adalah platform expense tracker (pencatat keuangan pribadi) berbasis mobile yang dirancang secara minimalis untuk membantu pengguna mengelola arus kas harian antara pemasukan dan pengeluaran secara praktis.
@@ -17,3 +20,10 @@ Aplikasi DompetKu adalah platform expense tracker (pencatat keuangan pribadi) be
 - [x] Warna merah untuk pengeluaran✅
 - [x] Validasi input (Deskripsi & Nominal)✅
 - [x] Format mata uang Rupiah✅
+
+## Cara menjalankan project 
+1. Pastikan Node.js dan Expo CLI sudah terinstal di perangkat.
+2. Buka terminal pada direktori project.
+3. Jalankan perintah: npx expo start.
+4. Scan QR Code yang muncul menggunakan aplikasi Expo Go di HP fisik (Android/iOS).
+5. Pastikan HP dan Laptop berada di jaringan Wi-Fi yang sama agar sinkronisasi berjalan lancar.

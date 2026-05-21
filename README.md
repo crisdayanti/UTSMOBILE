@@ -11,13 +11,13 @@ Aplikasi DompetKu adalah platform expense tracker (pencatat keuangan pribadi) be
 <img width="720" height="1604" alt="cd57041d-b80c-40db-8277-842b94c83162" src="https://github.com/user-attachments/assets/3eb0777c-f9bb-4c1a-867c-53995606d2db" />
 
 ## Fitur yang diimplementasikan
-- [x] Header saldo total (otomatis update)✅
-- [x] Ringkasan total pemasukan & pengeluaran✅
-- [x] Form input deskripsi dan nominal✅
-- [x] Dua tombol: Pemasukan berwarna hijau & Pengeluaran berwarna merah✅
-- [x] FlatList riwayat transaksi✅
-- [x] Validasi input (Deskripsi & Nominal)✅
-- [x] Format mata uang Rupiah✅
+- [x] Header saldo total (otomatis update)
+- [x] Ringkasan total pemasukan & pengeluaran
+- [x] Form input deskripsi dan nominal
+- [x] Dua tombol: Pemasukan berwarna hijau & Pengeluaran berwarna merah
+- [x] FlatList riwayat transaksi
+- [x] Validasi input (Deskripsi & Nominal)
+- [x] Format mata uang Rupiah
 
 ## Cara menjalankan project 
 1. Pastikan Node.js dan Expo CLI sudah terinstal di perangkat.

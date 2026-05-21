@@ -1,4 +1,4 @@
-# DOMPETKU/ (UNTUK MEMENUHI UTS MOBILE)
+# DOMPETKU (UNTUK MEMENUHI UTS MOBILE)
 
 ## Nama & NIM
  - Cisdayanti Laggita Br Siagian
